@@ -1,0 +1,58 @@
+
+.start {
+  background: linear-gradient(
+      90deg,
+      rgba(252, 254, 255, 0.2) 0%,
+      rgba(0, 163, 255, 0.2) 100%
+    ),
+    #d9d9d9;
+  width: 100%;
+  height: 785px;
+  display: flex;
+  justify-items: start;
+}
+.textBlockMainPage {
+  width: 574px;
+  height: 463px;
+  border-radius: 40px;
+  background: #fff;
+  margin-top: 194px;
+ 
+}
+
+.imgOfGus {
+  width: 668px;
+  height: 785px;
+}
+
+.mainText {
+  color: #000;
+  font-family: Montserrat;
+  margin-left: 46px;
+  margin-top: 28px;
+}
+
+.buttonStartGus {
+  margin-left: 46px;
+  padding: 12px 24px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 10px;
+  background: #ff6b02;
+  margin-top: 42;
+}
+.subtext {
+  text-align: justify;
+  width: 481;
+}
+.logo {
+  width: 100px;
+  height: 35px;
+  margin-left: 94px;
+  margin-top: 40px;
+}
+.header{
+    margin-top: 60px;
+    margin-left: 46px;
+}
